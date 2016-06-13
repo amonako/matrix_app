@@ -129,7 +129,7 @@ Home Page Posters Styles
 	opacity: 0;
 	transition: 0.5s ease-in-out;
 	padding: 30px 15px;
-	width: 240px;
+	width: 300px;
 }
 .poster-info-overlay h3 {
 	text-transform: uppercase;
@@ -328,8 +328,8 @@ Media Queries / Responsive Styles
 /* Decrease content padding */
 
 .img-responsive { 
-	width: 240px;
-	height: 350px; 
+	width: auto;
+	height: 450px; 
 }
 
 .image-responsive { 

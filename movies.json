@@ -24,6 +24,15 @@
     "description" : "The Matrix Revolutions inicia imediatamente após os eventos de Matrix Reloaded. Como resultado de sua luta com o Sentinelas, Neo retorna à consciência em uma espécie de limbo (que é um ponto de transição entre Matrix e a Cidade das Máquinas) só acessível por despacho de Merovingian, na periferia da Matrix, a partir do qual sua mente é incapaz de libertar-se. Ordenado pelo Trainman (um servo do Merovingian), que por ele poderia ficar lá para a eternidade, Neo continua aprisionado até ser libertado por Trinity, que ameaça o Merovingian em um impasse, libertando-o.",
     "poster" : "the_matrix_revolutions_poster.jpg",
     "hero_image" : "the_matrix_revolutions_hero.jpg"
+  },
+
+  {
+    "title" : "The Animatrix",
+    "movie_number" : "4",
+    "elenco" : [],
+    "description" : "Animatrix é uma coleção de 9 contos de curta-metragem sobre o mundo de Matrix, em parte escrito pelas irmãs Wachowski. Os contos são uma fusão de computação gráfica com o tradicional anime japonês, A série trata das histórias que antecedem Matrix, dos dias finais das últimas cidades da humanidade, da guerra contra as máquinas e da queda da espécie humana.",
+    "poster" : "animatrix_poster.jpg",
+    "hero_image" : "animatrix_hero.jpg"
   }]
 
 }

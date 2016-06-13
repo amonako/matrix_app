@@ -19,7 +19,7 @@ exports.movie_single = function(req, res) {
 
 	var movies = moviesJSON.movies;
 
-	if (movie_number >= 1 && movie_number <= 3) {
+	if (movie_number >= 1 && movie_number <= 4) {
 		var movie = movies[movie_number - 1];
 
 		var title = movie.title;
