@@ -1,0 +1,29 @@
+{
+  "movies": [{
+    "title" : "The Matrix",
+    "movie_number" : "1",
+    "elenco" : ["Keanu Reeves....... Thomas A. Anderson / Neo", "Carrie-Anne Moss.......Trinity", "Laurence Fishburne.......Morpheus", "Hugo Weaving.......Agente Smith", "Joe Pantoliano.......Cypher", "Marcus Chong.......Tank", "Belinda McClory.......Switch", "Ray Anthony Parker.......Dozer", "Matt Doran.......Mouse", "Julian Arahanga.......Apoc", "Gloria Foster.......Oráculo"],
+    "description" : "Thomas A. Anderson é um entre os milhões de seres humanos adormecidos. Neuralmente conectado à Matrix, ignorava que o mundo em que vivia é diferente do que parece. Nesse mundo simulado, ele vive uma vida dupla. Nas suas atividades legais, ele é um programador para uma companhia de software. Porém, Anderson também é um hacker, invadindo sistemas de computador ilegalmente e roubando informações, sob o seu apelido hacker de Neo. Durante a sua vida como um hacker, Anderson descobre algo conhecido apenas como a Matrix. E é descrita por Morpheus como uma vaga intuição de que Neo teve durante toda a sua vida: que há algo de errado com o mundo.",
+    "poster" : "the_matrix_poster.jpg",
+    "hero_image" : "the_matrix_hero.jpg"
+  },
+
+  {
+    "title" : "The Matrix Reloaded",
+    "movie_number" : "2",
+    "elenco" : ["Keanu Reeves....... Thomas A. Anderson / Neo", "Carrie-Anne Moss.......Trinity", "Laurence Fishburne.......Morpheus", "Hugo Weaving.......Agente Smith", "Jada Pinkett Smith.......Niobe", "Helmut Bakaitis.......O Arquiteto", "Collin Chou.......Seraph", "Lambert Wilson.......Merovingian", "Steve Bastoni.......Soren", "Adrian Rayment.......Gêmeo nº2", "Don Batte.......Vector", "Neil Rayment.......Gêmeo nº1", "Daniel Bernhardt.......Agente Johnson",  "Gloria Foster.......Oráculo"],
+    "description" : "Aproximadamente seis meses depois dos acontecimentos de The Matrix, surge o segundo filme, The Matrix Reloaded. Neo está totalmente confiante na sua capacidade de manipular o mundo artificial dentro da Matrix - ele pode voar, Tem uma enorme força e velocidade, tem habilidades telecinéticas e curativas, e é quase invulnerável. (Link, o novo navegador, comenta sobre Neo usando seus poderes.) Exceto por esses incríveis poderes, Neo, utilizando o sua visão de código, pode ver através de objetos sólidos como um visão de raio-X.",
+    "poster" : "the_matrix_reloaded_poster.jpg",
+    "hero_image" : "the_matrix_reloaded_hero.jpg"
+  },
+
+  {
+    "title" : "The Matrix Revolutions",
+    "movie_number" : "3",
+    "elenco" : ["Keanu Reeves....... Thomas A. Anderson / Neo", "Carrie-Anne Moss.......Trinity", "Laurence Fishburne.......Morpheus", "Hugo Weaving.......Agente Smith", "Jada Pinkett Smith.......Niobe", "Helmut Bakaitis.......O Arquiteto", "Collin Chou.......Seraph", "Lambert Wilson.......Merovingian", "Rachel Blackman.......Charra", "Monica Bellucci.......Persefone", "Francine Bell.......Conselheira Grace", "Kate Beahan.......Moça da chapelaria", "Tanveer K. Atwal.......Sati", "Mary Alice.......Oráculo"],
+    "description" : "The Matrix Revolutions inicia imediatamente após os eventos de Matrix Reloaded. Como resultado de sua luta com o Sentinelas, Neo retorna à consciência em uma espécie de limbo (que é um ponto de transição entre Matrix e a Cidade das Máquinas) só acessível por despacho de Merovingian, na periferia da Matrix, a partir do qual sua mente é incapaz de libertar-se. Ordenado pelo Trainman (um servo do Merovingian), que por ele poderia ficar lá para a eternidade, Neo continua aprisionado até ser libertado por Trinity, que ameaça o Merovingian em um impasse, libertando-o.",
+    "poster" : "the_matrix_revolutions_poster.jpg",
+    "hero_image" : "the_matrix_revolutions_hero.jpg"
+  }]
+
+}
